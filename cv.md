@@ -86,11 +86,9 @@ A highly skilled and versatile Software Engineer with over 28 years of experienc
 
 **Interactive CV / Resume**
 
-* **Description:** This CV was created as a project to demonstrate the ability to present complex technical information in a clear, structured, and modern format. It is version-controlled and built using Markdown.
-* **Tech Stack:** `Markdown`, `Git`.
-* **Link:** [cv](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/cv.md) (placeholder)
-
----
+* **Description: The sample task for translate serial data to udp.**.
+* **Tech Stack:** `C++`, `C, Qt`.
+* **Link:** [serial2udp](https://github.com/Val-d-emar/serial2udp)
 
 ### **CODE EXAMPLE**
 
