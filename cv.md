@@ -8,10 +8,10 @@
 
 * **Location:** Batumi, Georgia (Open to relocation)
 * **Phone:** +995 55555 5555
-* **Email:** noname@gmail.com
-* **LinkedIn:** linkedin.com/in/noname
-* **GitHub:** github.com/noname
-* **Discord:** rs_anonymov#1234
+* **Email:** noahscf3@gmail.com
+* **LinkedIn:** linkedin.com/in/suhot
+* **GitHub:** github.com/Val-d-emar
+* **Discord:** v.ladi.mir
 
 ![avatar](https://avatars.githubusercontent.com/u/119951752?s=400&u=82ef3084929aad52311bdec57c70ae1d83323d92&v=4)
 
