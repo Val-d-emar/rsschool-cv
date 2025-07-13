@@ -7,7 +7,7 @@
 ### **CONTACTS**
 
 * **Location:** Batumi, Georgia (Open to relocation)
-* **Phone:** +995 55555 5555
+* **Phone:** +7 901 765 6412
 * **Email:** noahscf3@gmail.com
 * **LinkedIn:** linkedin.com/in/suhot
 * **GitHub:** github.com/Val-d-emar
