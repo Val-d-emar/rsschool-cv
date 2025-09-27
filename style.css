@@ -71,11 +71,21 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  vertical-align: middle; 
+  gap: 150px;
+  font-size: 1.2rem;
 }
 .logo {
-  width: 30px;
-  height: auto;
+  display: block;
+  width: auto;
+  height: 30px;
+  filter: invert(1);
+}
+
+.ava {
+  display: block;
+  width: auto;
+  height: 34px;  
 }
 
 code-dark {
