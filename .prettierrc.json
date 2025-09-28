@@ -1,0 +1,7 @@
+{
+  "htmlWhitespaceSensitivity": "strict",
+  "parser": "html",
+  "jsxBracketSameLine": true,
+  "semi": false,
+  "singleQuote": true
+}
